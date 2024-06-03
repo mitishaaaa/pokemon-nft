@@ -1,0 +1,17 @@
+{
+  "name": "pokemon_collection",
+  "description": "Pokemon NFT collection",
+  "version": "1.0.0",
+  "license": {
+    "name": "MIT"
+  },
+  "interfaces": [
+    "TZIP-016",
+    "TZIP-012",
+    "TZIP-021"
+  ],
+  "source": {
+    "tools": [
+      "LIGO"
+    ]
+  }
